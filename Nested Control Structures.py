@@ -11,3 +11,18 @@ for i in range(3):
     print("Outer For Loop: " + str(i))
     for l in range(2):
         print("     Inner For Loop: " + str(l))
+
+print("\n***************\n")
+
+
+'''
+Programmer: Kaeden Lee
+Date: 10.23.19
+Program: For Loop + While Loop
+
+This program will create a For Loop with a While Loop embedded into it
+'''
+
+
+
+
